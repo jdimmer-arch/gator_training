@@ -4,7 +4,7 @@ This index provides a sequential list of all videos in the Newbie Nest chapter w
 
 ## Videos
 
-1. [Welcome To the Course](notes/welcome_to_the_course_notes.md) - Introduction to the Gator Method program
+1. [Welcome To the Course](notes/what_gator_is_video_notes.md) - Introduction to the Gator Method program
 2. [Mindset](notes/mindset_video_notes.md) - Core mindset principles for success in real estate investing
 3. [Victim Mindset](notes/victim_mindset_video_notes.md) - How to identify and overcome victim mentality
 4. [Mindset w/Dean Graziosi](notes/mindset_dean_graziosi_video_notes.md) - Collaboration with Dean Graziosi on success psychology
